@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+.headers {
+    text-align: center;
+}
+
+.headers h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-top: 0.67em;
+}
+
+.headers h2 {
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.headers h3 {
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.docs {
+    font-size: 1.5em;
+    margin-left: 2em;
+}
+
+.docs {
+    font-size: 1.5em;
+    margin-left: 2em;
+}
+
+.description {
+    margin-left: 2em;
+}
